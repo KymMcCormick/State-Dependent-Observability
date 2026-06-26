@@ -1,6 +1,9 @@
 # ============================================================
 # State-dependent erosion simulation
 # Abstract progressive subunit system
+# Kym M. McCormick PhD
+# Adelaide University
+# June 2026
 # ============================================================
 
 # ---------------------------
